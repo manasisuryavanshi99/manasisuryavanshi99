@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm **Manasi Suryavanshi**
 
-<!--
-**manasisuryavanshi99/manasisuryavanshi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hello! 👋 I'm **Manasi Suryavanshi**
 I'm a passionate Data Scientist with over 2 years of experience in analytics, specializing in data-driven decision-making and real-time analytics solutions. 
 
 ### 💼 About Me:
