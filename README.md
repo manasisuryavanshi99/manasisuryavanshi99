@@ -2,6 +2,9 @@
 
 I'm a passionate Data Scientist with over 2 years of experience in analytics, specializing in data-driven decision-making and real-time analytics solutions. 
 
+### ⚡️ My Catch-phrase: 
+Self-taught data enthusiast who lives by numbers. From marketing to tech, I've embraced data-driven decisions. I don't just meet expectations—I exceed them with creative insights.
+
 ### 💼 About Me:
 - 💻 I have expertise in **SQL**, **Python**, and **Azure Cloud Services**, working on real-time analytics and data integration projects.
 - 🔬 I specialize in **A/B testing**, **statistical analysis**, and **data visualization** tools to draw meaningful insights from data.
@@ -19,5 +22,5 @@ I'm a passionate Data Scientist with over 2 years of experience in analytics, sp
 
 
 
-- ⚡ My Catch-phrase: Self-taught data enthusiast who lives by numbers. From marketing to tech, I've embraced data-driven decisions. I don't just meet expectations—I exceed them with creative insights.
+
 
