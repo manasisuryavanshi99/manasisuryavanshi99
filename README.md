@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm **Manasi Suryavanshi**
-
-I'm a passionate Data Scientist with over 2 years of experience in analytics, specializing in data-driven decision-making and real-time analytics solutions. 
+---
 
 ### ⚡️ My Catch-phrase: 
 Self-taught data enthusiast who lives by numbers. From marketing to tech, I've embraced data-driven decisions. I don't just meet expectations—I exceed them with creative insights.
