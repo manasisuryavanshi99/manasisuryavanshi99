@@ -15,18 +15,9 @@ Self-taught data enthusiast who lives by numbers. From marketing to tech, I've e
 
 ### 😄 Pronouns: she/her
 ### Tech Stack
-
-- **Languages**: 
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
-  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) SQL
-
-- **Databases**: 
-  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) PostgreSQL 
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL 
-
-- **Data Visualization**: 
-  - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=white) Power BI 
-  - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) Tableau 
+**Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+**Databases and Warehouses**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MySQLWorkbench](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MangoDB](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Cassandra](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+**Data Visualization**: ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=white)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
 
 - **Cloud Platforms**: 
   - ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white) Azure 
